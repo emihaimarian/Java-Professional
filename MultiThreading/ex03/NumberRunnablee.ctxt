@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumberRunnablee
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Aici\ il\ sincronizam\ pe\ run\r\n\ Thread.currentThread()\ \=>\ ia\ firul\ curent\ de\ executie\ si\ cu\ getName()\ iau\ numele\ firului\ de\ executie\r\n\ \r\n\ orice\ alt\ fir\ de\ executie\ apeleaza\ pe\ run\ va\ astepta\ pana\ cand\ celalalt\ a\ terminat\ tot\ ce\ este\ in\ run\ (se\ executa\ intotdeauna\ unul\ dupa\ celalalt)\r\n\ \ \ \ \ \r\n
+numComments=2

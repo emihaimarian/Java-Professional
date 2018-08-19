@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OddNumbersThread
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Pentru\ a\ executa\ un\ fir\ de\ executie\ suprascriem\ metoda\ run\ (nu\ confundati\ metoda\ run\ cu\ metoda\ start).\r\n\ pe\ run\ o\ suprascriem\ ca\ sa\ ii\ spunem\ ce\ face\ acel\ fir\ de\ executie\ (care\ sunt\ instr\ lui).\r\n\ pe\ start\ o\ apelam\ din\ firul\ de\ executie\ ca\ sa\ ii\ spunem\ porneste\ acum.\r\n
+numComments=2
