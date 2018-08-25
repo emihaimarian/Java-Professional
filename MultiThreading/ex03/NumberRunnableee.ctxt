@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=NumberRunnableee
-comment1.params=
-comment1.target=void\ run()
-comment1.text=\r\n\ il\ pot\ folosi\ si\ pe\ this\ ca\ monitor\ si\ este\ instanta\ de\ NumberRunnableee(nbr1)\ care\ este\ acelasi\ ptr\ ambele\ fire\ de\ executie\r\n
-numComments=2
